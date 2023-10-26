@@ -1,0 +1,33 @@
+[
+  {
+    "role": "Flutter Developer",
+    "organisation": "The Internet Folks",
+    "startDate": "May, 2023",
+    "endDate": "July, 2023",
+    "experiences": ["Worked on Bloc Pattern", "Implimented GAuth"],
+    "imageSrc": "history/tif.png"
+  },
+  {
+    "role": "SDE Intern",
+    "organisation": "Go Influencer",
+    "startDate": "May, 2022",
+    "endDate": "Jan, 2023",
+    "experiences": [
+      "Worked on a lot of features",
+      "Developed pixel perfect UI for mobile and web app",
+      "Documented the optimiztion for Flutter web app"
+    ],
+    "imageSrc": "history/wyshlist.webp"
+  },
+  {
+    "role": "Winter Intern",
+    "organisation": "High Radiu",
+    "startDate": "Jan, 2022",
+    "endDate": "April, 2022",
+    "experiences": [
+      "Worked on user dashboard using React.js",
+      "Helped create UI components using MUI"
+    ],
+    "imageSrc": "history/highradius.webp"
+  }
+]
