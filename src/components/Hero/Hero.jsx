@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Aakash</h1>
         <p className={styles.description}>
-          I'm a full-stack developer and have experience in React.js, Node.js and
+          I'm full-stack developer and have experience in React.js, Node.js and
           Flutter.
         </p>
         <a
@@ -19,11 +19,19 @@ export const Hero = () => {
           Contact Me
         </a>
       </div>
+      <div style={{
+        // height:"40%",
+        // width:"35%",
+        // borderRadius:"50%",
+        // backgroundColor:"red",
+
+      }}>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("about/a0.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
+      </div>
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
