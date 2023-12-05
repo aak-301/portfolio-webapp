@@ -22,11 +22,11 @@ function App() {
       setwidth((width) => width + 1);
       setleft((left) => left - 0.5);
       setheight(height=>height+1.55);
-    }, 30);
+    }, 55);
 
     const timer = setTimeout(function () {
       setLoad(false);
-    }, 1800);
+    }, 1200);
     return () => {
       clearInterval(myInterval);
       clearTimeout(timer);

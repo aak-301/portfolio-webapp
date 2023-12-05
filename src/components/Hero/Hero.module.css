@@ -57,6 +57,7 @@
   height: 404px;
   width: 404px;
   border-radius: 100%;
+  margin-bottom: 30px;
 
   animation-name: floating;
   animation-duration: 3s;
@@ -116,5 +117,8 @@
   .heroImg {
     height: 207px;
     width: 200px;
+  }
+  .description{
+    max-width: 100%;
   }
 }
